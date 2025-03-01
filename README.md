@@ -1,6 +1,6 @@
 ## About
 
-Just a basic information site made using Node.js...
+Just a basic information site made using Node.js and Express...
 
 ## Run it locally
 
